@@ -1,7 +1,5 @@
-Exercice de la quête au trésor !
+Treasure Quest exercise !
 
-Pour lancer l'application, entrer la commande suivante : 
+Run using : java -jar treasure-quest.jar <inputFilePath> <outputFilePath>
 
-java -jar treasure-quest.jar <inputFilePath> <outputFilePath>
-
-Les fichiers d'entrée et de sortie doivent être au format .txt
+Input file format : TXT
